@@ -21,7 +21,7 @@ The **OnlineSupermarketDB** application is a simple supermarket management syste
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/username/OnlineSupermarketDB.git
+   git clone https://github.com/shaimamamdouh/OnlineSupermarketDB.git
 2. **Open the project** in NetBeans or any Java IDE.  
 
 3. Ensure the Microsoft Access database file (`.accdb`) is located in the `DataBase/` folder.  
